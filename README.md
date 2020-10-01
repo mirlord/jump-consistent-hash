@@ -37,7 +37,7 @@ Or copy the class and add it to your code base.
 
 Then import it and use it.
 
-    int jumpConsistentHash = JumpConsistentHash.jumpConsistenHash(key, buckets);
+    int jumpConsistentHash = JumpConsistentHash.jumpConsistentHash(key, buckets);
 
 Additional info in the `javadoc`.
 
